@@ -1,4 +1,4 @@
-# Compliance portfolio showcasing audit coordination, control mapping, and policy governance across ISO 27001, SOC 2, and CMMC.
+Compliance portfolio showcasing audit coordination, control mapping, and policy governance across ISO 27001, SOC 2, and CMMC.
 # Hi! Welcome to my Information Security Compliance Portfolio.
 
 > **Audit-ready. Framework-fluent. Documentation-driven.**
@@ -34,6 +34,8 @@ Every project in this repository represents real, structured work aligned to wha
 
 Built a multi-framework compliance control matrix mapping ISO 27001, SOC 2, and CMMC controls into a unified, cross-referenced view.
 
+<img width="721" height="199" alt="Compliance Control Matrix" src="https://github.com/user-attachments/assets/f3364577-1890-4ef2-8ecb-4542ab655a3a" />
+
 **This demonstrates:**
 - Standardized control ownership, frequency, and evidence requirements for audit readiness
 - Improved visibility into compliance posture through structured tracking
@@ -47,6 +49,8 @@ Built a multi-framework compliance control matrix mapping ISO 27001, SOC 2, and 
 **Category:** Audit Management
 
 Designed a tracker to manage auditor requests and documentation collection throughout the audit lifecycle.
+
+<img width="770" height="211" alt="Evidence Tracker" src="https://github.com/user-attachments/assets/86d846d3-5014-4338-ba2d-2d81f7910270" />
 
 **This demonstrates:**
 - Reduced audit response time by organizing and prioritizing evidence submissions
@@ -62,6 +66,8 @@ Designed a tracker to manage auditor requests and documentation collection throu
 
 Developed a remediation tracking dashboard to monitor compliance gaps and corrective actions.
 
+<img width="634" height="232" alt="Rem Tracker" src="https://github.com/user-attachments/assets/ad121bbf-98b8-4f4c-8ccc-4481e270c395" />
+
 **This demonstrates:**
 - Visualized risk exposure using charts and pivot tables
 - Improved accountability by assigning ownership and tracking due dates
@@ -75,6 +81,8 @@ Developed a remediation tracking dashboard to monitor compliance gaps and correc
 **Category:** Governance · **Frameworks:** ISO 27001 · SOC 2
 
 Authored a complete suite of security policies and procedures aligned to ISO 27001 and SOC 2 requirements.
+
+<img width="433" height="487" alt="Policy" src="https://github.com/user-attachments/assets/087cbe51-4c77-445b-9158-e062613fcbae" />
 
 **This demonstrates:**
 - Standardized policy structure for consistency and audit traceability
@@ -90,6 +98,8 @@ Authored a complete suite of security policies and procedures aligned to ISO 270
 
 Created an audit calendar to track internal and external compliance activities and deliverables.
 
+<img width="595" height="148" alt="Calendar" src="https://github.com/user-attachments/assets/7e154c5b-8c07-4c74-89e1-e5a355bba9a0" />
+
 **This demonstrates:**
 - Coordinated timelines and deliverables across multiple stakeholder groups
 - Improved audit preparedness through proactive scheduling
@@ -103,6 +113,8 @@ Created an audit calendar to track internal and external compliance activities a
 **Category:** Executive Reporting
 
 Prepared executive-level compliance status reports summarizing audit progress and risk posture.
+
+<img width="560" height="338" alt="Compliance Status Report" src="https://github.com/user-attachments/assets/6e6a339c-158f-4ad4-98f3-9d65c7bd2463" />
 
 **This demonstrates:**
 - Translated technical compliance data into clear, actionable insights for leadership
@@ -118,6 +130,8 @@ Prepared executive-level compliance status reports summarizing audit progress an
 
 Developed audit communication templates to streamline engagement throughout compliance activities.
 
+<img width="625" height="508" alt="Email" src="https://github.com/user-attachments/assets/c077389d-c367-4acf-8910-625da9dbb5ca" />
+
 **This demonstrates:**
 - Created reusable templates for kickoff, status updates, and follow-up communications
 - Coordinated meetings, agendas, and action items for compliance activities
@@ -132,6 +146,8 @@ Developed audit communication templates to streamline engagement throughout comp
 
 Supported compliance awareness initiatives by developing user-facing training materials.
 
+<img width="806" height="449" alt="Compliance Awareness Training" src="https://github.com/user-attachments/assets/19f00e17-5943-4a3e-90fb-f26217c100ae" />
+
 **This demonstrates:**
 - Educated users on cybersecurity best practices including phishing and access control
 - Enhanced organizational awareness of compliance requirements
@@ -145,6 +161,8 @@ Supported compliance awareness initiatives by developing user-facing training ma
 **Category:** Document Governance
 
 Maintained version control logs to track policy and document updates with full traceability.
+
+<img width="732" height="87" alt="Version Control Log" src="https://github.com/user-attachments/assets/29c12ad0-0500-4729-97c1-8a298811a598" />
 
 **This demonstrates:**
 - Tracked revisions with date, owner, and rationale for each change
